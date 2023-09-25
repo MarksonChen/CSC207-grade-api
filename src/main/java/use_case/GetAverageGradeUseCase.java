@@ -11,7 +11,7 @@ public final class GetAverageGradeUseCase {
     }
 
     public float getAverageGrade(String course) {
-        // TODO: Get average grade for all students in your team.
+        // TODO: Get average grade for all students in your team.here
         return 0.0f;
     }
 }
